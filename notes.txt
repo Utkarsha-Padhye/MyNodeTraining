@@ -2,3 +2,5 @@ to init NPM
 node -v
 npm -v
 npm init
+npmjs.com   all npm package
+serch for validator.js package
