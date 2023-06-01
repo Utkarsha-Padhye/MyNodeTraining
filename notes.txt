@@ -4,3 +4,4 @@ npm -v
 npm init
 npmjs.com   all npm package
 serch for validator.js package
+ npm i validator@10.8.0 to install this package
