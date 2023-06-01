@@ -1,0 +1,4 @@
+to init NPM 
+node -v
+npm -v
+npm init
