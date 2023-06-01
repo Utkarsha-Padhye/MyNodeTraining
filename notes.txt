@@ -9,3 +9,6 @@ run npm install to install node_module if deleted, it will aito detect rom packa
 chalk module
 Global npm Modules and nodemon
  npm i nodmon@1.18.5 -g to install package globally
+ with this package, instead of running node app.js now we can use commond nodemon app.js
+ also it will kkept executing in backend and if we change anything in script it will automattically run thse cahnges.
+ no need to re-trigger the commond
