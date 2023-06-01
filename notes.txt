@@ -8,3 +8,4 @@ serch for validator.js package
 run npm install to install node_module if deleted, it will aito detect rom package_json.lock and package,json file what need to be install.
 chalk module
 Global npm Modules and nodemon
+ npm i nodmon@1.18.5 -g to install package globally
